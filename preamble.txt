@@ -1,0 +1,4 @@
+// Copyright Alten AB, Linköping 2015
+//
+// Authors: Sören Molander, Joel Nordh, Pierre Östlund
+//
